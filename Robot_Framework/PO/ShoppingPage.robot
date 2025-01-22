@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    shopping for items on the next page
+Documentation    All the page objects and keywords of Shop page
 Library    SeleniumLibrary
 Library    Collections
 Library    BuiltIn
