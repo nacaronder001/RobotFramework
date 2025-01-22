@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    this is all about the first page
+Documentation    All the page objects and keywords of landing page
 Library    SeleniumLibrary
 
 
