@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation    This is the last about for confirmation about the country and verify the purchase
+Documentation    All the page objects and keywords of confirm page.
 Resource    Generic.robot
 Library    SeleniumLibrary
 Library    BuiltIn
